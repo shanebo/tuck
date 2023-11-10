@@ -1,0 +1,16 @@
+{
+  "name": "tuck",
+  "version": "0.1.0",
+  "description": "A lightweight key-value store with backend adapters",
+  "license": "MIT",
+  "keywords": [
+    "key-value",
+    "cache"
+  ],
+  "repository": "shanebo/tuck",
+  "author": "Shane Thacker <shane@steadymade.com>",
+  "main": "./lib/index",
+  "dependencies": {
+    "redis": "^4.6.10"
+  }
+}
